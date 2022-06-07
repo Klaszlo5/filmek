@@ -1,0 +1,28 @@
+{
+    "fulm":[
+        {
+            "nev":"Leves",
+            "menny":"1ora",
+            "kep":"kep/dovtor.jpg",
+            "leiras":"yes"
+        },
+        {
+            "nev":"Leves",
+            "menny":"1ora",
+            "kep":"kep/eszak.jpg",
+            "leiras":"yes"
+        },
+        {
+            "nev":"Leves",
+            "menny":"1ora",
+            "kep":"kep/nope.jpg",
+            "leiras":"yes"
+        },
+        {
+            "nev":"Leves",
+            "menny":"1ora",
+            "kep":"kep/blacklight.jpg",
+            "leiras":"yes"
+        }
+    ]
+}
